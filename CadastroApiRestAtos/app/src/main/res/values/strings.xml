@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CadastroApiRestAtos</string>
+
+    <string name="hint_nome">Nome Completo</string>
+    <string name="hint_idade">Idade</string>
+    <string name="hint_sexo">Sexo</string>
+    <string name="hint_url">http://10.0.2.2:8080/cadastro</string>
+
+    <string name="btn_cadastrar">Cadastrar</string>
+    <string name="btn_transmitir">Transmitir</string>
+    <string name="btn_update">Salvar Alterações</string>
+    <string name="btn_excluir_registro">Eliminar Registro</string>
+
+    <string name="err_msg_name">Preecha o campo nome completo</string>
+    <string name="err_msg_idade">Preecha o campo idade</string>
+    <string name="err_msg_sexo">Preecha o campo sexo</string>
+
+</resources>
